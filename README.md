@@ -1,4 +1,4 @@
-# sports_event
+# Sports Event
 
 a Flutter application that displays sports events based on the provided local data.
 
@@ -17,3 +17,6 @@ in design there was a hover color for item, we don't have that in mobile (when w
 ## Sizes
 I try to be use perfect pixel design from Figma, there are some problem with that design, I only mention those on the code with Todo keyword.
 in real case we need to fix that with help of UI team.
+
+## Screen shots
+![First](https://example.com/path/to/image.png)
