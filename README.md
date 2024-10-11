@@ -18,8 +18,9 @@ in design there was a hover color for item, we don't have that in mobile (when w
 I try to be use perfect pixel design from Figma, there are some problem with that design, I only mention those on the code with Todo keyword.
 in real case we need to fix that with help of UI team.
 
-## Screen shots
+## Video Shots
+Download video file:
 https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.24.11.mp4
-
+## Screen shots
 ![FirstScreenShot](https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.25.04.png)
 ![SecondScreenShot](https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.25.06.png)
