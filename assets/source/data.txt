@@ -1,0 +1,151 @@
+[
+    {
+        "league": "LEGA B",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "12:45",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "league": "LEGA B",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Tomorrow",
+        "timeStarting": "12:45",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "league": "LEGA B",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Yesterday",
+        "timeStarting": "12:45",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "league": "LEGA B",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Yesterday",
+        "timeStarting": "12:45",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "league": "LEGA B",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Yesterday",
+        "timeStarting": "12:45",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Tomorrow",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Yesterday",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    },
+    {
+        "iconUrl": "https://cdn-icons-png.flaticon.com/512/2158/2158416.png",
+        "league": "Serie A",
+        "teams": "Milan vs. Munich",
+        "sportType": "Football",
+        "dateStarting": "Today",
+        "timeStarting": "14:00",
+        "timeEnding" : "14:45",
+        "description": "Gummi bears cupcake sesame snaps cupcake bonbon. Halvah muffin biscuit brownie bear claw cookie croissant. Sugar plum candy canes brownie topping pudding jelly-o chocolate cake lollipop.\n\nChocolate cake chupa chups shortbread apple pie chocolate bar jelly beans chocolate carrot cake danish. Lemon drops jujubes chocolate sesame snaps marshmallow. Sesame snaps sweet roll oat cake."
+    }
+]
