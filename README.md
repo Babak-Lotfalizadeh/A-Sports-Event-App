@@ -19,7 +19,7 @@ I try to be use perfect pixel design from Figma, there are some problem with tha
 in real case we need to fix that with help of UI team.
 
 ## Screen shots
-https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.24.11.mp4
+[![Watch the video](https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.25.04.png)](https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screen%20Recording%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.24.11.mp4)
 
 ![FirstScreenShot](https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.25.04.png)
 ![SecondScreenShot](https://github.com/Babak-Lotfalizadeh/A-Sports-Event-App/blob/master/screen_shots/Simulator%20Screenshot%20-%20iPhone%2015%20Pro%20Max%20-%202024-10-11%20at%2019.25.06.png)
